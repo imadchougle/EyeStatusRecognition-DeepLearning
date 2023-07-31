@@ -9,7 +9,7 @@ This project stands out because i created a special dataset using my own eye ima
 
 ![Eyes](https://github.com/imadchougle/EyeStatusRecognition-DeepLearning/assets/54437743/91762815-c879-48af-a9fb-68929443eb44)
 
-**About Dataset** All images are grayscale images, To ensure uniformity and ease of processing, all the images have been resized to the same dimensions of 110x110 pixels. All images are .png. The grayscale format simplifies data representation, making it easier for the model to detect eye status based on shades of gray.
+**About Dataset** All images are grayscale images, To ensure uniformity and ease of processing, all the images have been resized to the same dimensions of 110x110 pixels. All images are .png. The grayscale format simplifies data representation, making it easier for the model to detect eye status based on shades of gray. The Dataset has been already divided into 80-20 ratio, i test and train sub-folders
 
 **Splitting the dataset** The data has been divided into 80% and 20% train and test ratio in the main directory itself. using the rest 0.2 as the validation data
 
