@@ -2,7 +2,7 @@
 
 **Eye Status Detection using DeepLearning**
 
-This project focuses on developing a deep learning-based solution to detect the status of eyes, distinguishing between open and closed states. Using the powerful InceptionV3 pre-trained model from Keras and employing transfer learning, i aim to achieve high accuracy with minimal data requirements. 
+This project focuses on developing a deep learning-based solution to detect the status of eyes, distinguishing between open and closed states. Using the powerful InceptionV3 pre-trained model from Keras and employing transfer learning, i aim to achieve high accuracy with minimal data requirements.
 
 
 This project stands out because i created a special dataset using my own eye images. 100 images of closed eyes and 100 images of opened eyes. By using my personal eye images the model gains a better understanding of different conditions it might encounter. you can find the images in the PrepareData.rar file
